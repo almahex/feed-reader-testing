@@ -1,6 +1,6 @@
 # Feed Reader Testing
 
-This project adds tests to a feed reader application by using Jasmine.
+This project adds comprehensive unit tests to a RSS Feed Reader application that uses Google's RSS API by using Jasmine testing framework.
 
 ## Usage
 
