@@ -90,3 +90,16 @@ h2 {
     padding: 1em;
     margin: 0.5em 0;
 }
+
+footer {
+  padding: 1em 0 2em 0;
+  text-align: center;
+}
+
+.view-source {
+  color: #4183c4;
+  font-weight: 300;
+  text-decoration: none;
+  margin: 1.3em 0 0;
+  padding: 1em 0;
+}
